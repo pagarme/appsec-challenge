@@ -1,9 +1,5 @@
 # appsec-challenge
 
-Oi, tudo bom?
-
-Gostamos bastante do nosso último papo e decidimos passar você para a próxima fase! Parabéns!
-
 Nesta fase, propomos aqui um desafio de aprendizado: você deverá pesquisar sobre os tópicos listados nas perguntas, preparar uma apresentação, e vir aqui apresentar a nós. 
 
 Seguem seus tópicos:
@@ -25,6 +21,6 @@ Pedimos que inclua na sua apresentação as referências de onde buscou conhecim
 
 O grande objetivo deste desafio é entendermos como você lida com esse conhecimento novo, então não esperamos que você já saiba destes assuntos hoje; esperamos que você os aprenda e venha conversar com a gente sobre sua evolução! 
 
-Você tem uma semana para executar este desafio. Se você estiver com muita dificuldade em algum ponto, fique à vontade para responder a este email que estamos aqui para ajudar.
+Você tem uma semana para executar este desafio. Se você estiver com muita dificuldade em algum ponto, fique à vontade para nos procurar que estamos aqui para ajudar.
 
-Boa sorte e nos vemos em breve!
+Boa sorte!
