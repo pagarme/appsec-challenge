@@ -27,4 +27,4 @@ O grande objetivo deste desafio é entendermos como você lida com esse conhecim
 
 Você tem uma semana para executar este desafio. Se você estiver com muita dificuldade em algum ponto, fique à vontade para responder a este email que estamos aqui para ajudar.
 
-Boa sorte e até semana que vem!
+Boa sorte e nos vemos em breve!
