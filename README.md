@@ -21,6 +21,6 @@ Pedimos que inclua na sua apresentação as referências de onde buscou conhecim
 
 O grande objetivo deste desafio é entendermos como você lida com esse conhecimento novo, então não esperamos que você já saiba destes assuntos hoje; esperamos que você os aprenda e venha conversar com a gente sobre sua evolução! 
 
-Você tem uma semana para executar este desafio. Se você estiver com muita dificuldade em algum ponto, fique à vontade para nos procurar que estamos aqui para ajudar.
+Fique atento ao prazo do desafio. Se você estiver com muita dificuldade em algum ponto, fique à vontade para nos procurar que estamos aqui para ajudar.
 
 Boa sorte!
